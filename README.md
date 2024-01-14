@@ -12,26 +12,25 @@ Elevate your social media game with the Viral Twitter Post Generator! This dynam
 
 
 
-**## Technologies Used:**
+## **Technologies Used:**
 
 
-**React**: 
+## **React**: 
 The app is built using React, a powerful JavaScript library for building user interfaces. React's component-based architecture ensures a modular and scalable codebase.
 
 
-**use-react-screenshot:** 
+## **use-react-screenshot:** 
 Leveraging the use-react-screenshot library allows seamless screenshot capture, enabling users to download their created Twitter posts as images.
 
 
-**React Content Loader**: 
+## **React Content Loader**: 
 The loader animation is achieved using React Content Loader, enhancing the user experience during content generation.
 
 
-**CSS (Sass):** Styling is crafted using Sass, a popular CSS preprocessor, to ensure maintainability and flexibility.
+## **CSS (Sass):** Styling is crafted using Sass, a popular CSS preprocessor, to ensure maintainability and flexibility.
 
 
-Key Features:
-
+##**Key Features:**
 
 **Dynamic Tweet Customization:**
 Tailor tweets by modifying avatars, names, usernames, text content, and more.
